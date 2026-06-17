@@ -1,0 +1,42 @@
+{
+  "algorithm": "Dueling-PER",
+  "n_episodes": 300,
+  "success_rate": 1.0,
+  "mean_reward": 526.299,
+  "std_reward": 116.78,
+  "mean_steps": 41.55,
+  "collision_rate": 0.0767,
+  "game_over_rate": 0.0,
+  "per_map": {
+    "map_2": {
+      "success_rate": 1.0,
+      "mean_reward": 555.35,
+      "n_episodes": 56
+    },
+    "map_5": {
+      "success_rate": 1.0,
+      "mean_reward": 516.4,
+      "n_episodes": 50
+    },
+    "map_3": {
+      "success_rate": 1.0,
+      "mean_reward": 533.26,
+      "n_episodes": 60
+    },
+    "map_1": {
+      "success_rate": 1.0,
+      "mean_reward": 486.03,
+      "n_episodes": 47
+    },
+    "map_4": {
+      "success_rate": 1.0,
+      "mean_reward": 500.72,
+      "n_episodes": 44
+    },
+    "map_0": {
+      "success_rate": 1.0,
+      "mean_reward": 560.46,
+      "n_episodes": 43
+    }
+  }
+}

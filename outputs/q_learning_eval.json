@@ -1,0 +1,42 @@
+{
+  "algorithm": "Q-Learning",
+  "n_episodes": 300,
+  "success_rate": 0.0,
+  "mean_reward": -168.147,
+  "std_reward": 219.875,
+  "mean_steps": 120.01,
+  "collision_rate": 0.7367,
+  "game_over_rate": 1.0,
+  "per_map": {
+    "map_2": {
+      "success_rate": 0.0,
+      "mean_reward": -176.9,
+      "n_episodes": 56
+    },
+    "map_5": {
+      "success_rate": 0.0,
+      "mean_reward": -188.03,
+      "n_episodes": 50
+    },
+    "map_3": {
+      "success_rate": 0.0,
+      "mean_reward": -195.32,
+      "n_episodes": 60
+    },
+    "map_1": {
+      "success_rate": 0.0,
+      "mean_reward": -114.81,
+      "n_episodes": 47
+    },
+    "map_4": {
+      "success_rate": 0.0,
+      "mean_reward": -119.28,
+      "n_episodes": 44
+    },
+    "map_0": {
+      "success_rate": 0.0,
+      "mean_reward": -204.02,
+      "n_episodes": 43
+    }
+  }
+}
